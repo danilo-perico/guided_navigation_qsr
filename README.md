@@ -2,6 +2,7 @@
 
 
 The simulated experiments are made using an adaptation of the RoboFEI-HT Simulator \[[1]] \[[2]].
+
 [1]: https://doi.org/10.1007/s40313-018-0390-y
 [2]: https://github.com/danilo-perico/robofei-ht-framework
 
