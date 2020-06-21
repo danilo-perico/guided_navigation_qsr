@@ -1,0 +1,8 @@
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/install.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/list_install_components.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/rebuild_cache.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/edit_cache.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/serial_example.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/serial.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/install/local.dir
+/home/perico/robofei-ht-mixed-probstarvars/AI/IMU/serial/build/CMakeFiles/install/strip.dir

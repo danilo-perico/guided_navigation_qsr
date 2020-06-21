@@ -1,0 +1,66 @@
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Namespace List}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Class Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Class List}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}File Index}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}File List}{5}{section.3.1}
+\contentsline {chapter}{\numberline {4}Namespace Documentation}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}main Namespace Reference}{7}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Function Documentation}{7}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}main}{7}{subsubsection.4.1.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Variable Documentation}{7}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{7}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{7}{subsubsection.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.2.3}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{7}{subsubsection.4.1.2.3}
+\contentsline {section}{\numberline {4.2}oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point Namespace Reference}{7}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Variable Documentation}{8}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{8}{subsubsection.4.2.1.1}
+\contentsline {subsubsection}{\numberline {4.2.1.2}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{8}{subsubsection.4.2.1.2}
+\contentsline {subsubsection}{\numberline {4.2.1.3}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{8}{subsubsection.4.2.1.3}
+\contentsline {section}{\numberline {4.3}starvars Namespace Reference}{8}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Variable Documentation}{8}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{8}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{8}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{8}{subsubsection.4.3.1.3}
+\contentsline {chapter}{\numberline {5}Class Documentation}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point.\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point Class Reference}{9}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Constructor \& Destructor Documentation}{9}{subsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.1.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{9}{subsubsection.5.1.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Member Data Documentation}{10}{subsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.2.1}forward\discretionary {-}{}{}\_\discretionary {-}{}{}noise}{10}{subsubsection.5.1.2.1}
+\contentsline {subsubsection}{\numberline {5.1.2.2}orientation}{10}{subsubsection.5.1.2.2}
+\contentsline {subsubsection}{\numberline {5.1.2.3}sense\discretionary {-}{}{}\_\discretionary {-}{}{}noise}{10}{subsubsection.5.1.2.3}
+\contentsline {subsubsection}{\numberline {5.1.2.4}turn\discretionary {-}{}{}\_\discretionary {-}{}{}noise}{10}{subsubsection.5.1.2.4}
+\contentsline {subsubsection}{\numberline {5.1.2.5}x}{10}{subsubsection.5.1.2.5}
+\contentsline {subsubsection}{\numberline {5.1.2.6}y}{10}{subsubsection.5.1.2.6}
+\contentsline {section}{\numberline {5.2}starvars.\discretionary {-}{}{}Star\discretionary {-}{}{}Vars Class Reference}{10}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Constructor \& Destructor Documentation}{11}{subsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.1.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{11}{subsubsection.5.2.1.1}
+\contentsline {subsection}{\numberline {5.2.2}Member Function Documentation}{11}{subsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.2.1}Data\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pre\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Processing}{11}{subsubsection.5.2.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2.2}Decide\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}{11}{subsubsection.5.2.2.2}
+\contentsline {subsubsection}{\numberline {5.2.2.3}get\discretionary {-}{}{}Answer}{11}{subsubsection.5.2.2.3}
+\contentsline {subsubsection}{\numberline {5.2.2.4}Recursive\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}For}{12}{subsubsection.5.2.2.4}
+\contentsline {subsection}{\numberline {5.2.3}Member Data Documentation}{12}{subsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.3.1}data\discretionary {-}{}{}\_\discretionary {-}{}{}matrix}{12}{subsubsection.5.2.3.1}
+\contentsline {subsubsection}{\numberline {5.2.3.2}eta}{12}{subsubsection.5.2.3.2}
+\contentsline {subsubsection}{\numberline {5.2.3.3}landmarks}{12}{subsubsection.5.2.3.3}
+\contentsline {subsubsection}{\numberline {5.2.3.4}loopnum}{12}{subsubsection.5.2.3.4}
+\contentsline {subsubsection}{\numberline {5.2.3.5}m}{12}{subsubsection.5.2.3.5}
+\contentsline {subsubsection}{\numberline {5.2.3.6}missing\discretionary {-}{}{}\_\discretionary {-}{}{}orientation}{12}{subsubsection.5.2.3.6}
+\contentsline {subsubsection}{\numberline {5.2.3.7}missing\discretionary {-}{}{}\_\discretionary {-}{}{}relations\discretionary {-}{}{}\_\discretionary {-}{}{}from}{12}{subsubsection.5.2.3.7}
+\contentsline {subsubsection}{\numberline {5.2.3.8}orient\discretionary {-}{}{}\_\discretionary {-}{}{}index}{13}{subsubsection.5.2.3.8}
+\contentsline {subsubsection}{\numberline {5.2.3.9}oriented\discretionary {-}{}{}\_\discretionary {-}{}{}points}{13}{subsubsection.5.2.3.9}
+\contentsline {subsubsection}{\numberline {5.2.3.10}overall\discretionary {-}{}{}\_\discretionary {-}{}{}orientation}{13}{subsubsection.5.2.3.10}
+\contentsline {subsubsection}{\numberline {5.2.3.11}overall\discretionary {-}{}{}\_\discretionary {-}{}{}orientation\discretionary {-}{}{}\_\discretionary {-}{}{}answer}{13}{subsubsection.5.2.3.11}
+\contentsline {subsubsection}{\numberline {5.2.3.12}overall\discretionary {-}{}{}\_\discretionary {-}{}{}relations}{13}{subsubsection.5.2.3.12}
+\contentsline {subsubsection}{\numberline {5.2.3.13}overall\discretionary {-}{}{}\_\discretionary {-}{}{}relations\discretionary {-}{}{}\_\discretionary {-}{}{}answer}{13}{subsubsection.5.2.3.13}
+\contentsline {subsubsection}{\numberline {5.2.3.14}relations\discretionary {-}{}{}\_\discretionary {-}{}{}index}{13}{subsubsection.5.2.3.14}
+\contentsline {subsubsection}{\numberline {5.2.3.15}total\discretionary {-}{}{}\_\discretionary {-}{}{}entities}{13}{subsubsection.5.2.3.15}
+\contentsline {subsubsection}{\numberline {5.2.3.16}variable\discretionary {-}{}{}\_\discretionary {-}{}{}list}{13}{subsubsection.5.2.3.16}
+\contentsline {subsubsection}{\numberline {5.2.3.17}xy\discretionary {-}{}{}\_\discretionary {-}{}{}answer}{13}{subsubsection.5.2.3.17}
+\contentsline {chapter}{\numberline {6}File Documentation}{15}{chapter.6}
+\contentsline {section}{\numberline {6.1}main.\discretionary {-}{}{}py File Reference}{15}{section.6.1}
+\contentsline {section}{\numberline {6.2}oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point.\discretionary {-}{}{}py File Reference}{15}{section.6.2}
+\contentsline {section}{\numberline {6.3}starvars.\discretionary {-}{}{}py File Reference}{16}{section.6.3}
+\contentsline {chapter}{Index}{17}{section*.21}

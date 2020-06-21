@@ -1,0 +1,227 @@
+\begin{theindex}
+
+  \item {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}
+    \subitem {main}, \hyperpage{7}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point}, 
+		\hyperpage{8}
+    \subitem {starvars}, \hyperpage{8}
+  \item {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{9}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{11}
+  \item {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}
+    \subitem {main}, \hyperpage{7}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point}, 
+		\hyperpage{8}
+    \subitem {starvars}, \hyperpage{8}
+  \item {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}
+    \subitem {main}, \hyperpage{7}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point}, 
+		\hyperpage{8}
+    \subitem {starvars}, \hyperpage{8}
+
+  \indexspace
+
+  \item {Data\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pre\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Processing}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{11}
+  \item {data\discretionary {-}{}{}\_\discretionary {-}{}{}matrix}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+  \item {Decide\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{11}
+
+  \indexspace
+
+  \item {eta}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+
+  \indexspace
+
+  \item {forward\discretionary {-}{}{}\_\discretionary {-}{}{}noise}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{10}
+
+  \indexspace
+
+  \item {get\discretionary {-}{}{}Answer}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{11}
+
+  \indexspace
+
+  \item {landmarks}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+  \item {loopnum}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+
+  \indexspace
+
+  \item {m}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+  \item {main}, \hyperpage{7}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{7}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{7}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{7}
+    \subitem {main}, \hyperpage{7}
+  \item {main.\discretionary {-}{}{}py}, \hyperpage{15}
+  \item {missing\discretionary {-}{}{}\_\discretionary {-}{}{}orientation}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+  \item {missing\discretionary {-}{}{}\_\discretionary {-}{}{}relations\discretionary {-}{}{}\_\discretionary {-}{}{}from}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+
+  \indexspace
+
+  \item {orient\discretionary {-}{}{}\_\discretionary {-}{}{}index}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{12}
+  \item {orientation}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{10}
+  \item {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point}, 
+		\hyperpage{7}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{8}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{8}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{8}
+  \item {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point.\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{9}
+  \item {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point.\discretionary {-}{}{}py}, 
+		\hyperpage{15}
+  \item {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{9}
+    \subitem {forward\discretionary {-}{}{}\_\discretionary {-}{}{}noise}, 
+		\hyperpage{10}
+    \subitem {orientation}, \hyperpage{10}
+    \subitem {sense\discretionary {-}{}{}\_\discretionary {-}{}{}noise}, 
+		\hyperpage{10}
+    \subitem {turn\discretionary {-}{}{}\_\discretionary {-}{}{}noise}, 
+		\hyperpage{10}
+    \subitem {x}, \hyperpage{10}
+    \subitem {y}, \hyperpage{10}
+  \item {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}points}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+  \item {overall\discretionary {-}{}{}\_\discretionary {-}{}{}orientation}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+  \item {overall\discretionary {-}{}{}\_\discretionary {-}{}{}orientation\discretionary {-}{}{}\_\discretionary {-}{}{}answer}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+  \item {overall\discretionary {-}{}{}\_\discretionary {-}{}{}relations}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+  \item {overall\discretionary {-}{}{}\_\discretionary {-}{}{}relations\discretionary {-}{}{}\_\discretionary {-}{}{}answer}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item {Recursive\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}For}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{11}
+  \item {relations\discretionary {-}{}{}\_\discretionary {-}{}{}index}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item {sense\discretionary {-}{}{}\_\discretionary {-}{}{}noise}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{10}
+  \item {starvars}, \hyperpage{8}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}author\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{8}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}license\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{8}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}project\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{8}
+  \item {starvars.\discretionary {-}{}{}py}, \hyperpage{16}
+  \item {starvars.\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{10}
+  \item {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}
+    \subitem {\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}, 
+		\hyperpage{11}
+    \subitem {Data\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pre\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Processing}, 
+		\hyperpage{11}
+    \subitem {data\discretionary {-}{}{}\_\discretionary {-}{}{}matrix}, 
+		\hyperpage{12}
+    \subitem {Decide\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{11}
+    \subitem {eta}, \hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Answer}, \hyperpage{11}
+    \subitem {landmarks}, \hyperpage{12}
+    \subitem {loopnum}, \hyperpage{12}
+    \subitem {m}, \hyperpage{12}
+    \subitem {missing\discretionary {-}{}{}\_\discretionary {-}{}{}orientation}, 
+		\hyperpage{12}
+    \subitem {missing\discretionary {-}{}{}\_\discretionary {-}{}{}relations\discretionary {-}{}{}\_\discretionary {-}{}{}from}, 
+		\hyperpage{12}
+    \subitem {orient\discretionary {-}{}{}\_\discretionary {-}{}{}index}, 
+		\hyperpage{12}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}points}, 
+		\hyperpage{13}
+    \subitem {overall\discretionary {-}{}{}\_\discretionary {-}{}{}orientation}, 
+		\hyperpage{13}
+    \subitem {overall\discretionary {-}{}{}\_\discretionary {-}{}{}orientation\discretionary {-}{}{}\_\discretionary {-}{}{}answer}, 
+		\hyperpage{13}
+    \subitem {overall\discretionary {-}{}{}\_\discretionary {-}{}{}relations}, 
+		\hyperpage{13}
+    \subitem {overall\discretionary {-}{}{}\_\discretionary {-}{}{}relations\discretionary {-}{}{}\_\discretionary {-}{}{}answer}, 
+		\hyperpage{13}
+    \subitem {Recursive\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}For}, 
+		\hyperpage{11}
+    \subitem {relations\discretionary {-}{}{}\_\discretionary {-}{}{}index}, 
+		\hyperpage{13}
+    \subitem {total\discretionary {-}{}{}\_\discretionary {-}{}{}entities}, 
+		\hyperpage{13}
+    \subitem {variable\discretionary {-}{}{}\_\discretionary {-}{}{}list}, 
+		\hyperpage{13}
+    \subitem {xy\discretionary {-}{}{}\_\discretionary {-}{}{}answer}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item {total\discretionary {-}{}{}\_\discretionary {-}{}{}entities}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+  \item {turn\discretionary {-}{}{}\_\discretionary {-}{}{}noise}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{10}
+
+  \indexspace
+
+  \item {variable\discretionary {-}{}{}\_\discretionary {-}{}{}list}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item {x}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{10}
+  \item {xy\discretionary {-}{}{}\_\discretionary {-}{}{}answer}
+    \subitem {starvars\discretionary {-}{}{}::\discretionary {-}{}{}Star\discretionary {-}{}{}Vars}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item {y}
+    \subitem {oriented\discretionary {-}{}{}\_\discretionary {-}{}{}point\discretionary {-}{}{}::\discretionary {-}{}{}Oriented\discretionary {-}{}{}Point}, 
+		\hyperpage{10}
+
+\end{theindex}
