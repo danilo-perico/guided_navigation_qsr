@@ -1,4 +1,4 @@
-# Guided Navigation from Multiple Viewpoints using QualitativeSpatial Reasoning
+# Guided Navigation from Multiple Viewpoints using Qualitative Spatial Reasoning
 
 
 The simulated experiments are made using an adaptation of the RoboFEI-HT Simulator \[[1]] \[[2]].
